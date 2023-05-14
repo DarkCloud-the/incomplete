@@ -1,1 +1,1 @@
-def main(List<String> args) {  }if:  while i == Ture:    print('main esxport')elif () {  }else:
+wdef main(List<String> args) {  }if:  while i == Ture:    print('main esxport')elif () {  }else:
